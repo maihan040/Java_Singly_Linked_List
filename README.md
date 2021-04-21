@@ -26,6 +26,6 @@ Motivation for this project was twofold:
   * Node.java: class file for implementing a singly linked list node that will be used to build the list
   * Linked_List.java: module consisting of the many possible operations that can be applied to a singly linked list
   * Linked_List_Driver.java: module which will create an instance of the "Linked_List" class and test the various methods
- 
+  * .gitignore: git ingore file with list of files that won't be included  
  
 
