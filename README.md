@@ -2,7 +2,7 @@
 
 ## Purpose:
 
-This is an implementation of a singly linked list written in Javathon. Goal of this project is to build a library of methods that each can  
+This is an implementation of a singly linked list written in Java. Goal of this project is to build a library of methods that each can  
 interact with the linked list object to perform the desired operation, as well as explain via detalied comments how each method works.
 
 ## Motivation:
